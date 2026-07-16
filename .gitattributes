@@ -4,3 +4,4 @@
 *.cmd text eol=crlf
 *.vbs text eol=crlf
 *.md text eol=lf
+*.png binary
